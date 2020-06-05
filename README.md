@@ -13,12 +13,9 @@ Cadastrar o ponto de coleta de resíduos da sua empresa.
 A empresa avisa com antencedência quais tipos de resíduos a ser coletado.
 
 Tecnologias utilizadas no projeto:
-- HTML 5
-- CSS 3
-- Pré-processador SASS/SCSS
-- ITCSS triângulo invertido CSS, para fazer o CSS seja escalável e sustentável.
-- Metodologia RSCSS
+- ReactJS
 - JS
-- React
+- NodeJS
 - Typescript
+- Expo
 - sqlite3
